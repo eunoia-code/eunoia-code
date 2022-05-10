@@ -32,10 +32,10 @@ func MyBio() Bio {
 
 ## Contact me :telephone_receiver:
 📫 [![Gmail Badge](https://img.shields.io/badge/-rsh.newarray@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:-rsh.newarray@gmail.com)](-rsh.newarray@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/eunoia_code/)](https://www.instagram.com/eunoia_code/)
+[![Instagram Badge](https://img.shields.io/badge/-eunoia_code-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/eunoia_code/)](https://www.instagram.com/eunoia_code/)
 
 
 ------
 Credit: [eunoia_code](https://github.com/eunoia_code)
 
-Last Edited on: 21/08/2021
+Last Edited on: 11/10/2022
