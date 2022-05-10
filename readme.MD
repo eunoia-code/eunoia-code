@@ -39,6 +39,6 @@ func MyBio() Bio {
 [![Discord Badge](https://img.shields.io/badge/-Eunoia-5663F7?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/#eunoia##9735)
 
 ------
-Credit: [eunoia_code](https://github.com/eunoia_code)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=eunoia-code)
 
 Last Edited on: 11/10/2022
