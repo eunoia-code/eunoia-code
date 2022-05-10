@@ -7,12 +7,15 @@ package main
 import (
 	"fmt"
 )
+
 type Bio map[string]string
+
 func main() {
 	for r, s := range GetBio() {
 		fmt.Printf("%+v: %+v\n", r, s)
 	}
 }
+
 func MyBio() Bio {
 	return Bio{
 		"- ⚡ Quick bio:":                    "Just a person who like to code",
