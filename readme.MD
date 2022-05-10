@@ -1,4 +1,7 @@
 # Rizaldy Setiawan Hasanuddin
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Software+Engineer;DS%20|%20AI%20|%20ML%20Enthusiast;Keep+Learning+ASAP&center=true&width=500&height=50"></a>
+</p>
 
 ## About Me :eyes:
 
@@ -19,7 +22,7 @@ func main() {
 func MyBio() Bio {
 	return Bio{
 		"- ⚡ Quick bio:":                    "Just a person who like to code",
-		"- 🔭 I’m currently working at":      "Local Bank as Software Developer",
+		"- 🔭 I’m currently working at":      "Local Bank as Software Engineer",
 		"- 🌱 I’m currently learning":        "Docker, K8s, Golang, PostgreSQL, RabbitMQ, PyTorch",
 		"- 👯 I’m looking to collaborate on": "Python, Golang, PHP, JS, Dart and Docker",
 		"- 💬 Ask me about":                  "Python, PHP, SQL, Software Design & Architecture, Internet Of Things, AI"
