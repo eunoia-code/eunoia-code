@@ -25,9 +25,9 @@ func MyBio() Bio {
 ```
 
 ## My Statistic :chart_with_upwards_trend:
-<div align="center">![eunoia-code's github stats](https://github-readme-stats.vercel.app/api?username=eunoia-code&show_icons=true&theme=tokyonight)</div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=eunoia-code&show_icons=true&theme=tokyonight" alt="eunoia-code's stats" /></div>
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eunoia-code&theme=tokyonight" alt="mystreak"/></div>
-<div align="center">![eunoia-code's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunoia-code&theme=tokyonight&layout=compact)</div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunoia-code&theme=tokyonight&layout=compact" alt="eunoia-code's top langs" /></div>
 
 
 ## Contact me :telephone_receiver:
