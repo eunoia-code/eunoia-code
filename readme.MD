@@ -1,6 +1,6 @@
 # Rizaldy Setiawan Hasanuddin
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Software+Engineer;Tech+Enthusiast;Keep+Learning+ASAP&center=true&width=500&height=50">
+  <a href="javascript:void(0)"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Software+Engineer;Tech+Enthusiast;Keep+Learning+ASAP&center=true&width=500&height=50"></a>
 </p>
 ## About Me :eyes:
 
