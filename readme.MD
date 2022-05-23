@@ -40,8 +40,8 @@ func MyBio() Bio {
 [![Twitter Badge](https://img.shields.io/badge/-hiphipArray_-1d9bf0?style=flat-roundedrectangle&logo=twitter&logoColor=white&link=https://www.instagram.com/hiphipArray_/)](https://www.twitter.com/hiphipArray_/)
 [![Instagram Badge](https://img.shields.io/badge/-eunoia_code-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/eunoia_code/)](https://www.instagram.com/eunoia_code/)
 [![Linkedin Badge](https://img.shields.io/badge/-Rizaldy_Setiawan_Hasanuddin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hiphipArray)](https://www.linkedin.com/in/hiphipArray)
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/6285256166678)
-[![Discord Badge](https://img.shields.io/badge/-Eunoia-5663F7?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/#eunoia##9735)
+<!-- [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/6285256166678) -->
+[![Discord Badge](https://img.shields.io/badge/-Eunoia-5663F7?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/#eunoia#9735)
 
 ------
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=eunoia-code)
