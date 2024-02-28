@@ -33,7 +33,7 @@ func MyBio() Bio {
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=eunoia-code&show_icons=true&theme=tokyonight" alt="eunoia-code's stats" /></div>
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eunoia-code&theme=tokyonight" alt="mystreak"/></div>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunoia-code&theme=tokyonight&layout=compact" alt="eunoia-code's top langs" /></div>
-<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=eunoia-code&theme=react-dark" alt="eunoia-code's top langs" /></div>
+<!-- <div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=eunoia-code&theme=react-dark" alt="eunoia-code's top langs" /></div> -->
 
 ## Contact me :telephone_receiver:
 [![Gmail Badge](https://img.shields.io/badge/-rsh.newarray@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:-rsh.newarray@gmail.com)](-rsh.newarray@gmail.com)
@@ -45,4 +45,4 @@ func MyBio() Bio {
 ------
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=eunoia-code)
 
-Last Edited on: 11/10/2022
+Last Edited on: 29/02/2024
